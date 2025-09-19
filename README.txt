@@ -1,5 +1,3 @@
-
-
 # Portfolio Website
 
 This repository hosts my personal portfolio website, built with an HTML5 UP template and customized to showcase my work in **Data Analytics, Django/Backend Development, and Graphic Design**.  
@@ -29,3 +27,4 @@ Any changes pushed to this branch are reflected live.
 ## 📄 License
 This repository is for **personal portfolio use**.  
 Please do not copy or reuse the content, images, or designs without permission.  
+
